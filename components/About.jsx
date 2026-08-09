@@ -15,7 +15,7 @@ export default function About() {
       icon: <FaBriefcase className="text-3xl text-violet-400" />,
       title: "Current Status",
       detail: "Software Engineering Graduate",
-      subDetail: "Frontend Developer",
+      subDetail: "Software Engineer",
     },
     {
       icon: <FaMapMarkerAlt className="text-3xl text-violet-400" />,
@@ -26,8 +26,7 @@ export default function About() {
     {
       icon: <FaRocket className="text-3xl text-violet-400" />,
       title: "Specialty",
-      detail: "Frontend Developer",
-      subDetail: "React, Next.js, Tailwind",
+      detail: "Software Engineer",
     },
   ];
 
